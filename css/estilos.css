@@ -9,3 +9,8 @@ font-family: "Courier";
     color: white;
     background-color: violet;
 }
+
+#container h1{
+    color: purple;
+    font-style: italic;
+}
